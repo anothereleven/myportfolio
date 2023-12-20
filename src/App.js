@@ -18,7 +18,6 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Get to know me
         </a>
       </header>
     </div>
