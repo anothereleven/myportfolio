@@ -3,23 +3,12 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p className='App-nameheader'>
-          Hi! I am Anurag
-        </p>
-        <p className="App-subheader">
-          I am a Designer/Developer/Marketing Enthusiast
-        </p>
-
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-        </a>
-      </header>
+    <div class="app-container">
+      <p class="app-header">
+        Hi I am Anurag Patil. 
+        This is my portfolio website, currently under construction.
+        Contact me at anurag3103@gmail.com
+      </p>
     </div>
   );
 }
