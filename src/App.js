@@ -4,11 +4,11 @@ import './App.css';
 function App() {
   return (
     <div class="app-container">
-      <p class="app-header">
+      <p id="app-header">
         Hi I am Anurag Patil. 
-        This is my portfolio website, currently under construction.
-        Contact me at anurag3103@gmail.com
       </p>
+      <p>This is my portfolio website, currently under construction.</p>
+      <p>Contact me at anurag3103@gmail.com</p>
     </div>
   );
 }

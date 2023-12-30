@@ -1,6 +1,7 @@
 .app-container{
   align-items: center;
   justify-content: center;
+  flex-direction: column;
   display: flex;
   background-color: rgb(64, 64, 64);
   height: 100vh;
@@ -9,7 +10,7 @@
 }
 
 
-p{
-  font-size: 25px;
+#pheader{
+  font-size: px;
   text-align: center;
 }
